@@ -1,3 +1,6 @@
 [submodule "Level-5"]
 	path = Level-5
 	url = https://github.com/Madhanag0pal/Level-5.git
+[submodule "Level-6"]
+	path = Level-6
+	url = https://github.com/Madhanag0pal/Level-6
